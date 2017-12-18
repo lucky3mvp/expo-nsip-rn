@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "nsip-rn",
+    "description": "nsip-rn for expo",
+    "slug": "nsip-rn",
+    "privacy": "public",
+    "sdkVersion": "22.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.netease.nsip-rn"
+    },
+    "android": {
+      "package": "com.netease.nsip-rn"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "json"
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "expo-demo2",
+  "version": "0.0.0",
+  "description": "Expo!",
+  "author": "asyxu",
+  "main": "./index.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^22.0.0",
+    "nsip-fetch": "git+https://git.ms.netease.com/nsip-core/fetch.git#v1.1.2",
+    "lodash": "^4.17.4",
+    "react": "16.0.0-beta.5",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-22.0.2.tar.gz",
+    "react-navigation": "^1.0.0-beta.15",
+    "react-static-container": "^1.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-module-alias": "^1.6.0"
+  }
+}
